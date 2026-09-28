@@ -81,7 +81,7 @@ on:
         required: false
         type: string
         default: ""
-            page_size:
+      page_size:
         description: "ARM64 page size: 4k (default) or 16k"
         required: false
         type: string
